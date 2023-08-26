@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mary Grace Dellomos!
-- 👀 I’m currently a freshman Computer Engineering student.
+- 👀 I’m currently a Computer Engineering student.
 - 🌱 I’m currently learning Python Language.
